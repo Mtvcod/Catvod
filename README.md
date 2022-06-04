@@ -7,4 +7,4 @@ XM:xm_20220527.json
 
 Pangpang1975:pangda.json
 
-YuanHsing:maooxp.json,maooxp.json（9kg）
+YuanHsing:maooxp.json,maooxp2.json（9kg）
