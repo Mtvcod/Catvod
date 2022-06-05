@@ -1,7 +1,7 @@
 # Catvod
 备份自各位大神，自用。
 
-tangsan99999:xiaobai.json
+tangsan99999:xiaobai.json;xiaobai_2.json
 
 XM:xm_20220527.json
 
